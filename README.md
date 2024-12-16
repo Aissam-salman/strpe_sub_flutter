@@ -1,8 +1,32 @@
 # stripe_sub_flutter
 
-A new Flutter project.
+- Nodejs server
+- flutter classic app
+- stripe api
+
+package:
+    flutter_stripe: ^11.3.0
+    http: ^1.2.2
+
 
 ## Getting Started
+
+```
+git clone https://github.com/Aissam-salman/strpe_sub_flutter
+
+cd strpe_sub_flutter
+
+# launch server
+cd server
+npm i
+node --watch index.js
+
+# launch flutter app
+cd ..
+flutter pub get
+flutter build apk
+flutter run
+```
 
 This project is a starting point for a Flutter application.
 
