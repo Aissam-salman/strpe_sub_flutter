@@ -8,6 +8,7 @@ package:
     flutter_stripe: ^11.3.0
     http: ^1.2.2
 
+Documentation détail: [ici](https://whispering-dish-a31.notion.site/paymen-in-app-15e187c5716080f080d9fa0e30dff625)
 
 ## Getting Started
 
